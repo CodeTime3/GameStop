@@ -1,0 +1,5 @@
+﻿Name | Description
+PS5 | Platform of Sony
+Pc | Computer
+XBox | Platform of Microsoft
+Nintendo Switch | Platform of Nintendo

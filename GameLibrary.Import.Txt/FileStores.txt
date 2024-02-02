@@ -1,0 +1,5 @@
+﻿Name | Description | Url
+Steam | Steam Store | https://store.steampowered.com/?l=italian
+Epic Games | Epic Games Store | https://www.epicgames.com/site/it/home
+eShop | Nintento eShop | https://www.nintendo.it/Nintendo-eShop/Nintendo-eShop-1806894.html
+GameStop | GameStop Store | https://www.gamestop.it/

@@ -1,0 +1,5 @@
+﻿PurchaseDate | IsVirtual | NameStore | NameGame | NamePlatform | Price | Currency | Payment Method
+2024-01-16 | True | Steam | Fifa15 | Pc | 15.8 | Eur | Card
+2024-01-14 | True | Epic Games | NBA 2K24 | Pc | 50.4 | Eur | Card
+2024-01-10 | True | Steam | Call Of Duty | Pc | 43.1 | Eur | Card
+2023-10-20 | False | Game Stop | Super Mario | Nintendo Switch | 49.90 | Eur | Cash
